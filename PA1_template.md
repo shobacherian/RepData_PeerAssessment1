@@ -16,7 +16,7 @@ file=read.csv("activity.csv", header=T)
 ## **What is mean total number of steps taken per day?**
 
 
-1. Calcualte the total number of steps taken perday
+1. Calculate the total number of steps taken perday
 2. Calculate the mean and median of the total number of steps taken per day
 3. Make a histogram of the total number of steps taken each day
     * Mean and median are plotted on the histogram and values indicated in the legend
